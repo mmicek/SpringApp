@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Example TLD</short-name>
+
+    <tag-file>
+        <name>header</name>
+        <path>/WEB-INF/tags/header.tag</path>
+    </tag-file>
+
+</taglib>

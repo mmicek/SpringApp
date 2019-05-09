@@ -1,0 +1,3 @@
+BeanFactoryAspectJAdvisorsBuilder (107)
+
+ReflectiveAspectJAdvisorFactory (126) -> dla każdej klasy posiadającej @Aspect iterujemy po metodach i pobieramy jeżeli są to Advice
